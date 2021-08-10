@@ -1,8 +1,5 @@
-# wdefiswap SDK
+# pancakeswap V2 SDK
 
-[![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
-[![Actions Status](https://github.com/wdefiswap/wdefiswap-sdk/workflows/CI/badge.svg)](https://github.com/wdefiswap/wdefiswap-sdk)
-[![npm version](https://img.shields.io/npm/v/@wdefiswap-lib/sdk/latest.svg)](https://www.npmjs.com/package/@wdefiswap-lib/sdk/v/latest)
 
 ## Running tests
 
@@ -14,10 +11,10 @@ First clone the repository:
 git clone https://github.com/Woonkly/wDEFI-sdk.git
 ```
 
-Move into the wdefiswap-sdk working directory
+Move into the pancakeswap-sdk working directory
 
 ```sh
-cd wdefiswap-sdk/
+cd pancakeswap-sdk/
 ```
 
 Install dependencies
